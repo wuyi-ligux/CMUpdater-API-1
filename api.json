@@ -2,11 +2,11 @@
  "id": null,
  "result": [
      {
-    "url": "https://tx1.androidfilehost.com/dl/CeO-af2RVsOERYij60lHJQ/1477171185/529152257862668559/cm-13.0-Arsenic-v5-oneplus3.zip",
-    "timestamp": "1476941036",
+    "url": "http://qc2.androidfilehost.com/dl/e7bXzFshsCQnVwb6NLgr1A/1477689896/24269982087017252/ukmKernel.zip",
+    "timestamp": "1477689896",
     "api_level": "23",
-    "md5sum": "519e0299acc8305950008d5bc5fda550",
-    "filename": "cm-13.0-Arsenic-v5-oneplus3.zip",
+    "md5sum": "18e529ad5cf1fb909f606f748c565db7",
+    "filename": "ukmKernel.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
