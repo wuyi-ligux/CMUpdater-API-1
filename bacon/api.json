@@ -2,13 +2,13 @@
  "id": null,
  "result": [
      {
-    "url": "https://tx1.androidfilehost.com/dl/CeO-af2RVsOERYij60lHJQ/1477171185/529152257862668559/cm-13.0-Arsenic-v5-oneplus3.zip",
-    "timestamp": "1476941036",
-    "api_level": "23",
-    "md5sum": "519e0299acc8305950008d5bc5fda550",
-    "filename": "cm-13.0-Arsenic-v5-oneplus3.zip",
+    "url": "http://v2.huangguofeng.com/pcs_download.php?id=6770&link=%2Fapps%2Fhgf_blog%2Fbacon%2FSM71.1-bacon-201612092331-UNOFFICIAL.zip",
+    "timestamp": "1481632847",
+    "api_level": "25",
+    "md5sum": "5f976673b4847d44e17f4e22a0f187c5",
+    "filename": "SM71.1-bacon-20161213-2040.zip",
     "channel": "NIGHTLY",
-    "changes": "https://fl1.androidfilehost.com/dl/pyWRWDrsHJ5mwWn88Cqceg/1459648615/24459283995309428/RaCyanOS-v20.0-bacon_Changelog_20160331.txt",
+    "changes": "",
     "incremental": ""
     },
   ],
