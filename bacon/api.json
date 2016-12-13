@@ -3,10 +3,10 @@
  "result": [
      {
     "url": "http://v2.huangguofeng.com/pcs_download.php?id=6770&link=%2Fapps%2Fhgf_blog%2Fbacon%2FSM71.1-bacon-201612092331-UNOFFICIAL.zip",
-    "timestamp": "1481632847",
+    "timestamp": "1481639305",
     "api_level": "25",
     "md5sum": "5f976673b4847d44e17f4e22a0f187c5",
-    "filename": "SM71.1-bacon-20161213-2040.zip",
+    "filename": "SM71.1-bacon-20161213-2228.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
