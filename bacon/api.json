@@ -2,11 +2,11 @@
  "id": null,
  "result": [
      {
-    "url": "http://v2.huangguofeng.com/pcs_download.php?id=6770&link=%2Fapps%2Fhgf_blog%2Fbacon%2FSM71.1-bacon-201612092331-UNOFFICIAL.zip",
+    "url": "https://sz-btfs-v2-yun-ftn.weiyun.com/ftn_handler/956ffb068648e93317cfffbd09c045324a6a8d5382c2ffb00558ae2cb4fa6ffd3eea625363c63944c6fbe55e929b2c6f12654f1bd7163735daa208dc4e3101a8/SM71.1-bacon-20161213-2228.zip?fname=SM71.1-bacon-20161213-2228.zip&from=30013&version=2.0.0.2&uin=58865341",
     "timestamp": "1481639305",
     "api_level": "25",
     "md5sum": "5f976673b4847d44e17f4e22a0f187c5",
-    "filename": "SM71.1-bacon-20161213-2230.zip",
+    "filename": "SM71.1-bacon-20161213-2228.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
