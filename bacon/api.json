@@ -11,6 +11,16 @@
     "changes": "",
     "incremental": ""
     },
+    {
+    "url": "https://sz-btfs-v2-yun-ftn.weiyun.com/ftn_handler/eab71117b0ab3bfc93244729afa7e6bea3fe60e529ad820c0f56942686db5ba3772b707fee79249b9b4961a61286479e18f7fe1f2366ce68730b1b364b00c4fb/SM71.1-bacon-20161214-0929.zip?fname=SM71.1-bacon-20161214-0929.zip&from=30111&version=2.0.0.2&uin=58865341",
+    "timestamp": "1481678961",
+    "api_level": "25",
+    "md5sum": "64050413d61494f28454535e9de652e7",
+    "filename": "SM71.1-bacon-20161214-0929.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
