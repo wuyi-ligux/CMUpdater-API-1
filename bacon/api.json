@@ -12,7 +12,7 @@
     "incremental": ""
     },
     {
-    "url": "https://c.pcs.baidu.com/rest/2.0/pcs/file?method=download&access_token=21.8a0688253793fa4d9e9c17ea856cd026.2592000.1484287131.1526923244-2172157&path=/apps/zqqian123/bacon%2F12-14%2FSM71.1-bacon-20161214-0929.zip",
+    "url": "http://v2.huangguofeng.com/pcs_download.php?id=6770&link=%2Fapps%2Fhgf_blog%2Fbacon%2F12-14%2FSM71.1-bacon-20161214-0929.zip",
     "timestamp": "1481678961",
     "api_level": "25",
     "md5sum": "64050413d61494f28454535e9de652e7",
