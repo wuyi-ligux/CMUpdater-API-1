@@ -25,8 +25,8 @@
     "url": "http://hz189cloud.oos-hz.ctyunapi.cn/97514135-055f-4d17-8efe-7c0a9d7be567?Expires=1481863722&response-content-disposition=attachment%3Bfilename%3D%22sm-update-20161214-20161215.zip%22&AWSAccessKeyId=95e6d363b6e2475aeecc&Signature=K7uNQ1aQNbU/mFPLq8oj4bi5U9s%3D",
     "timestamp": "1481773567",
     "api_level": "25",
-    "md5sum": "2873AE41A6DE045AAFDF439E0D8BD088",
-    "filename": "sm-update-20161214-20161215.zip",
+    "md5sum": "66302FBA0AECCE0D61EF52FFBF4468AB",
+    "filename": "SM71.1-bacon-20161215-1146.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
