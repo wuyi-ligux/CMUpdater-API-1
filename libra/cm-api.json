@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+     {
+    "url": "http://xa189cloud.oos-website-cn.oos-snxa.ctyunapi.cn/b403aa40-b85f-43de-94c9-b7018c6ecf01?Expires=1481960882&response-content-disposition=attachment%3Bfilename%3D%22cm-14.1-20161216-UNOFFICIAL-libra.zip%22&AWSAccessKeyId=c947570364056574cccc&Signature=6o1bzUs0Ig8DjyIR3zCtbroFqBk%3D",
+    "timestamp": "1481857636",
+    "api_level": "25",
+    "md5sum": "21ea9a1d9da78556a0a4f0170f9c3a5f",
+    "filename": "cm-14.1-20161216-UNOFFICIAL-libra.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+  ],
+ "error": null
+}
