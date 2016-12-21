@@ -2,21 +2,21 @@
  "id": null,
  "result": [
      {
-    "url": "http://hz189cloud.oos-hz.ctyunapi.cn/aea39663-a010-4837-9bfb-9b17e5dc8ef7?Expires=1482130757&response-content-disposition=attachment%3Bfilename%3D%22SM71.1-bacon-20161218-1245.zip%22&AWSAccessKeyId=95e6d363b6e2475aeecc&Signature=YNs0389IquLzKVLxnVzHFq%2BEClo%3D",
-    "timestamp": "1482036333",
-    "api_level": "25",
-    "md5sum": "0a0272178b10b675cc78cfafcbfb5e4b",
-    "filename": "SM71.1-bacon-20161218-1245.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-     {
-    "url": "https://raw.githubusercontent.com/wuyi-ligux/OTA-download/master/%E4%B8%80%E5%8A%A01/12-19/sm-bacon-update-1218-1219.zip",
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/12-19/sm-bacon-update-1218-1219.zip",
     "timestamp": "1482124995",
     "api_level": "25",
     "md5sum": "F9BA67AE41C5528B4BDA1C8BA7CF6517",
     "filename": "sm-bacon-update-1218-1219.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/12-21/sm-bacon-update-1219-1221.zip",
+    "timestamp": "1482287850",
+    "api_level": "25",
+    "md5sum": "48D7224637F242C292C709B64A2EDFC5",
+    "filename": "sm-bacon-update-1219-1221.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
