@@ -31,6 +31,16 @@
     "changes": "",
     "incremental": ""
     },
+    {
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/12-28/sm-bacon-update-1226-1228.zip",
+    "timestamp": "675b757641",
+    "api_level": "25",
+    "md5sum": "F43F0AB4357192B7D6D46B7828617A25",
+    "filename": "sm-bacon-update-1226-1228.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
