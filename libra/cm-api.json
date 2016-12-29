@@ -2,21 +2,11 @@
  "id": null,
  "result": [
      {
-    "url": "http://xa189cloud.oos-website-cn.oos-snxa.ctyunapi.cn/b403aa40-b85f-43de-94c9-b7018c6ecf01?Expires=1481960882&response-content-disposition=attachment%3Bfilename%3D%22cm-14.1-20161216-UNOFFICIAL-libra.zip%22&AWSAccessKeyId=c947570364056574cccc&Signature=6o1bzUs0Ig8DjyIR3zCtbroFqBk%3D",
-    "timestamp": "1481857636",
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E5%B0%8F%E7%B1%B34c/cm/12-29/cm-update-20161226-20161229.zip",
+    "timestamp": "1482986296",
     "api_level": "25",
-    "md5sum": "21ea9a1d9da78556a0a4f0170f9c3a5f",
-    "filename": "cm-14.1-20161216-UNOFFICIAL-libra.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-     {
-    "url": "http://hz189cloud.oos-hz.ctyunapi.cn/d197fb4b-b850-4036-9acc-3a70a900fb4c?Expires=1482318251&response-content-disposition=attachment%3Bfilename%3D%22cm-14.1-20161219-UNOFFICIAL-libra.zip%22&AWSAccessKeyId=95e6d363b6e2475aeecc&Signature=l1pfAWE1%2B94esEIzQK19iEPgvLk%3D",
-    "timestamp": "1482134857",
-    "api_level": "25",
-    "md5sum": "468c92f60314d2859675e21cc1cf443f",
-    "filename": "cm-14.1-20161219-UNOFFICIAL-libra.zip",
+    "md5sum": "A3408E1EC49BCC4CB40C9CDF85094D4A",
+    "filename": "cm-update-20161226-20161229.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
