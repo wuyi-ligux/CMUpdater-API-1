@@ -2,11 +2,21 @@
  "id": null,
  "result": [
      {
-    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E5%B0%8F%E7%B1%B34c/sm/12-26/sm-update-20161221-20161226.zip",
-    "timestamp": "1482742450",
+    "url": "http://hz189cloud.oos-hz.ctyunapi.cn/41438b69-f6eb-4740-9d2e-73b2748a28f2?Expires=1482130508&response-content-disposition=attachment%3Bfilename%3D%22SM71.1-libra-20161216-1911.zip%22&AWSAccessKeyId=95e6d363b6e2475aeecc&Signature=qxX/P5YnlxTVaJY1IGQfPn8WlrA%3D",
+    "timestamp": "1481886715",
     "api_level": "25",
-    "md5sum": "E36E9126DB83E5212568F2F3EEF05C8F",
-    "filename": "sm-update-20161221-20161226.zip",
+    "md5sum": "98B78D0F176B3887F4C432C3C20CA90B",
+    "filename": "SM71.1-libra-20161216-1911.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+     {
+    "url": "http://hz189cloud.oos-hz.ctyunapi.cn/a861dd3d-3e9a-4e46-87f0-4c701e94daf9?Expires=1482318293&response-content-disposition=attachment%3Bfilename%3D%22SM71.1-libra-20161219-1411.zip%22&AWSAccessKeyId=95e6d363b6e2475aeecc&Signature=b9069Z6NmRRzegwC7fnVDXfTUMU%3D",
+    "timestamp": "1482127883",
+    "api_level": "25",
+    "md5sum": "939ce4886d27e52eb74bff18d6f0319c",
+    "filename": "SM71.1-libra-20161219-1411.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
