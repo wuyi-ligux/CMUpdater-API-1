@@ -12,11 +12,21 @@
     "incremental": ""
     },
      {
-    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E5%B0%8F%E7%B1%B34c/sm/12-29/sm-update-20161229-201612fix2",
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E5%B0%8F%E7%B1%B34c/sm/12-29/sm-update-20161229-201612fix2.zip",
     "timestamp": "1482985075",
     "api_level": "25",
     "md5sum": "F07677CEAC74E253DF3694E6BEF51E6E",
-    "filename": "sm-update-20161229-201612fix2",
+    "filename": "sm-update-20161229-201612fix2.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+     {
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E5%B0%8F%E7%B1%B34c/sm/01-03/sm-update-201612fix2-20170103.zip",
+    "timestamp": "1483443697",
+    "api_level": "25",
+    "md5sum": "A82E83C81E4745F96717E33AC1A450D5",
+    "filename": "sm-update-201612fix2-20170103.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
