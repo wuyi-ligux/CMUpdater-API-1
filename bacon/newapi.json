@@ -1,6 +1,3 @@
-{
- "id": null,
- "result": [
      {
     "device": "bacon",
     "version": "71.1",
@@ -10,6 +7,3 @@
     "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/01-18/sm-bacon-update-0112-0118.zip",
     "romtype": "nightly"
     },
-  ],
- "error": null
-}
