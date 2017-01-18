@@ -2,44 +2,13 @@
  "id": null,
  "result": [
      {
-    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/12-19/sm-bacon-update-1218-1219.zip",
-    "timestamp": "1482124995",
-    "api_level": "25",
-    "md5sum": "F9BA67AE41C5528B4BDA1C8BA7CF6517",
-    "filename": "sm-bacon-update-1218-1219.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/12-21/sm-bacon-update-1219-1221.zip",
-    "timestamp": "1482287850",
-    "api_level": "25",
-    "md5sum": "48D7224637F242C292C709B64A2EDFC5",
-    "filename": "sm-bacon-update-1219-1221.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/12-26/sm-bacon-update-1221-1226.zip",
-    "timestamp": "1482734473",
-    "api_level": "25",
-    "md5sum": "E91FEDAB812E8FC2E4CA9B2778FF3387",
-    "filename": "sm-bacon-update-1221-1226.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/12-29/sm-bacon-update-1226-1229.zip",
-    "timestamp": "1482985075",
-    "api_level": "25",
-    "md5sum": "175C547B99290D65AC977CA92032E95F",
-    "filename": "sm-bacon-update-1226-1229.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
+    "device": "bacon",
+    "version": "71.1",
+    "md5sum": "C27D3112FF28CDA7F1D6DE18625FBAE4",
+    "filename": "sm-bacon-update-0112-0118.zip",
+    "datetime": "2017-01-18",
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/01-18/sm-bacon-update-0112-0118.zip",
+    "romtype": "nightly"
     },
   ],
  "error": null
