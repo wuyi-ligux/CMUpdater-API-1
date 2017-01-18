@@ -31,6 +31,16 @@
     "changes": "",
     "incremental": ""
     },
+     {
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E5%B0%8F%E7%B1%B34c/sm/01-18/sm-update-20170112-20170118.zip",
+    "timestamp": "1484723995",
+    "api_level": "25",
+    "md5sum": "527F4D4E65178E31B730CD48FBBEF26D",
+    "filename": "sm-update-20170112-20170118.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
