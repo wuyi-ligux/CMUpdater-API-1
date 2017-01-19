@@ -1,3 +1,6 @@
+{
+ "id": null,
+ "result": [
      {
     "device": "bacon",
     "version": "71.1",
@@ -8,3 +11,6 @@
     "romtype": "nightly",
     "available": "true"
     },
+  ],
+ "error": null
+}
