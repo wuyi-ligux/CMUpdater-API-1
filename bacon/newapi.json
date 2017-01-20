@@ -1,15 +1,14 @@
 {
  "id": null,
- "response": [
+ "response": 
      {
-    "device": bacon,
-    "filename": SM-71.1-20170121-NIGHTLY-bacon.zip,
-    "md5sum": 99116f528b266f6f54e5a395687dadd7,
-    "romtype": nightly,
-    "url": http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/01-20/sm-bacon-update-0119-0120.zip,
-    "version": 71.1,
+    "device": "bacon",
+    "filename": "SM-71.1-20170121-NIGHTLY-bacon.zip",
+    "md5sum": "99116f528b266f6f54e5a395687dadd7",
+    "romtype": "nightly",
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/01-20/sm-bacon-update-0119-0120.zip",
+    "version": "71.1",
     "datetime": "2017-01-21 20:30:25"
-    }
-  ],
+    },
  "error": null
 }
