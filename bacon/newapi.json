@@ -4,10 +4,10 @@
      {
     "device": "bacon",
     "version": "71.1",
-    "md5sum": "C27D3112FF28CDA7F1D6DE18625FBAE4",
-    "filename": "sm-bacon-update-0112-0118.zip",
-    "datetime": "2017-01-18 13:00:00",
-    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/01-18/sm-bacon-update-0112-0118.zip",
+    "md5sum": "99116f528b266f6f54e5a395687dadd7",
+    "filename": "sm-bacon-update-0119-0120.zip",
+    "datetime": "2017-01-20 13:11:00",
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/01-20/sm-bacon-update-0119-0120.zip",
     "romtype": "nightly",
     "available": "true"
     },
