@@ -1,5 +1,5 @@
 {
-    "id": 00001,
+ "id": null,
     "response": [
 {
     "device": "bacon",
@@ -10,6 +10,6 @@
     "version": "SM71.1",
     "md5sum": "99116f528b266f6f54e5a395687dadd7"
 },
-],
-"error": 00001
+  ],
+ "error": null
 }
