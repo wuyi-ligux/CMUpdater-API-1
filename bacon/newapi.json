@@ -9,7 +9,8 @@
     "datetime": "2017-01-22",
     "romtype": "NIGHTLY",
     "version": "SM71.1",
-    "md5sum": "99116f528b266f6f54e5a395687dadd7"
+    "md5sum": "99116f528b266f6f54e5a395687dadd7",
+    "available": "true"
     },
   ],
  "error": null
