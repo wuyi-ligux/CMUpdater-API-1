@@ -1,15 +1,15 @@
 {
-    "id": null,
-    "response": [
-{
-    "device": "bacon",
+ "id": null,
+ "result": [
+     {
     "filename": "sm-bacon-update-0119-0120.zip",
-    "version": "71.1",
-    "datetime": "2017-01-23",
-    "romtype": "nightly",
+    "api_level": "25",
+    "timestamp": "1485184663",
+    "channel": "NIGHTLY",
     "md5sum": "99116f528b266f6f54e5a395687dadd7",
     "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/01-20/sm-bacon-update-0119-0120.zip",
-},
+    "changes": ""
+    },
   ],
  "error": null
 }
