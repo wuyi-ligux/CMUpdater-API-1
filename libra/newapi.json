@@ -1,0 +1,14 @@
+{
+ "id": null,
+ "result": [
+     {
+    "filename": "sudamod-71.1-0125OTA.zip",
+    "api_level": "25",
+    "md5sum": "C9D053BED2C4B052B44F06804125CB85",
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E4%B8%80%E5%8A%A01/01-25/sudamod-71.1-0125OTA.zip",
+    "timestamp": "1485341280",
+    "channel": "nightly"
+    },
+  ],
+ "error": null
+}
