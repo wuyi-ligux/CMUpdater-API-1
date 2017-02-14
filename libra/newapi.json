@@ -9,6 +9,14 @@
     "timestamp": "1485340000",
     "channel": "NIGHTLY"
     },
+     {
+    "filename": "sudamod-71.1-20170214-OTA.zip",
+    "api_level": "25",
+    "md5sum": "08ec60ac82caee50102babfc271c6cf3",
+    "url": "http://git.oschina.net/wuyi/OTA-download/raw/master/%E5%B0%8F%E7%B1%B34c/sm/02-14/sudamod-71.1-20170214-OTA.zip",
+    "timestamp": "1487083203",
+    "channel": "NIGHTLY"
+    },
   ],
  "error": null
 }
